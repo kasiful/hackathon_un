@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bounding_box_mini",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "width": 7.219753, "height": 5.831339, "area": 42.100824, "perimeter": 26.102183 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 103.342518728752026, -1.249261157181258 ], [ 110.562271436163044, -1.249261157181258 ], [ 110.562271436163044, 4.582077568035334 ], [ 103.342518728752026, 4.582077568035334 ], [ 103.342518728752026, -1.249261157181258 ] ] ] } }
+]
+}
